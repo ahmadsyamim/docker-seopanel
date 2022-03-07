@@ -1,4 +1,4 @@
-FROM php:7.4-apache
+FROM php:8.1-apache
 MAINTAINER mike@odania-it.com
 
 RUN apt-get update \
